@@ -1,0 +1,13 @@
+*.class
+out/
+bin/
+.vscode/
+token
+
+# IBM BOB
+.bob/
+.bobshel/
+bob.config.json
+*.bob.log
+.key
+ProfMonthe/
