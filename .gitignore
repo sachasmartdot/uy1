@@ -9,5 +9,9 @@ token
 .bobshel/
 bob.config.json
 *.bob.log
+
 .key
+
+*.key
+
 ProfMonthe/
